@@ -1,4 +1,4 @@
-# GitHub and Government [![Test site build](https://github.com/github/anzsmartservice.github.io/actions/workflows/build.yml/badge.svg)](https://github.com/github/anzsmartservice.github.io/actions/workflows/build.yml)
+# Anz Smart Service [![Test site build](https://github.com/github/anzsmartservice.github.io/actions/workflows/build.yml/badge.svg)](https://github.com/github/anzsmartservice.github.io/actions/workflows/build.yml)
 
 ![screenshot](assets/img/screenshot.png)
 
